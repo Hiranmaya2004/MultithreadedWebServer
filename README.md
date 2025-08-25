@@ -1,4 +1,4 @@
-# MultithreadedWebServer
+# Multithreaded Web Server
 
 A Java-based multithreaded web server implementation designed to handle multiple client requests concurrently, improving server responsiveness and throughput.
 
